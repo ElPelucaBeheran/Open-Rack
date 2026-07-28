@@ -48,7 +48,10 @@ This unit is designed to house:
 
 ### 🖥️ M-ATX Board
 
-###💾 Disk Bays
+### 💾 Disk Bays
+
+#### 2,5" Disk Bays
+#### 3,5" Disk Bays
 
 ### ⚡M-ATX Power Supply
 
