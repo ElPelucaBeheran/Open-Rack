@@ -107,9 +107,6 @@ This unit is designed to house:
 
 ---
 
-## 📸 Images
+## 📁 Files
 
-Add your images inside an `/images` folder and reference them like this:
 
-```markdown
-![Description](images/your-image.png)
