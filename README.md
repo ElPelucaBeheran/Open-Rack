@@ -109,7 +109,7 @@ This unit is designed to house:
 
 ## 📁 Files
 
-F3D
-Step
-STLs
+- F3D
+- Step
+- STLs
 
