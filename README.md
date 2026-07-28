@@ -22,7 +22,7 @@ The system is made out of **two different units**:
 
 This unit allows you to:
 - Fit **M-ATX motherboards**
-- Mount up to **2 × 3.5" SATA hard drives**
+- Mount up to **2 × 3.5" SATA hard drives by bay**
 
 ---
 
