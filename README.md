@@ -44,34 +44,17 @@ This unit is designed to house:
 
 ---
 
-## 🔗 Together or Standalone System
+## 🔗 Pre-Made Modules
 
-### 🔧 Together
-
-![Combined Setup](images/combined.png)
-
-The rack system is designed to work as a **modular setup**.
-
-For example, when building a NAS:
-- Place the **power supply** in a Half Unit  
-- Mount the **motherboard and disk bays** in a Full Unit  
-
-To connect both units, use the **V-Slot coupling system** already integrated into the design.
-
+### 🖥️ M-ATX Board
+---
+###💾 Disk Bays
+---
+### ⚡M-ATX Power Supply
+---
+### 🛜 Wifi Rele 
 ---
 
-### 🧩 Standalone
-
-![Standalone](images/standalone.png)
-
-Each unit can also function independently.
-
-Examples:
-- A **Half Unit** can be used to build a Raspberry Pi cluster  
-- A **network node** with a switch and router  
-- A **control module** with displays and microcontrollers  
-
----
 
 ## 🛠️ Assembly
 
