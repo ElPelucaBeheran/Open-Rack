@@ -47,13 +47,13 @@ This unit is designed to house:
 ## 🔗 Pre-Made Modules
 
 ### 🖥️ M-ATX Board
----
+
 ###💾 Disk Bays
----
+
 ### ⚡M-ATX Power Supply
----
+
 ### 🛜 Wifi Rele 
----
+
 
 
 ## 🛠️ Assembly
