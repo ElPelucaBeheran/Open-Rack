@@ -44,29 +44,12 @@ This unit is designed to house:
 
 ---
 
-## 🔗 Pre-Made Modules
 
-### 🖥️ M-ATX Board
-
-### 💾 Disk Bays
-
-#### 2,5" Disk Bays
-#### 3,5" Disk Bays
-
-### ⚡M-ATX Power Supply
-
-### 🛜 Wifi Rele 
-
-
-
-## 🛠️ Assembly
-
----
 
 ### 🔲 Full Unit
 
 #### STLs  
-*(Link to files)*
+[3D-Models/STLs/Full-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Full-Unit)
 
 - Columns ×4  
 - Full-U Base A ×1  
@@ -88,7 +71,7 @@ This unit is designed to house:
 ### 🔳 Half Unit
 
 #### STLs  
-*(Link to files)*
+[3D-Models/STLs/Half-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Half-Unit)
 
 - Columns ×4  
 - Half-U Base A ×1  
@@ -107,9 +90,27 @@ This unit is designed to house:
 
 ---
 
+## 🔗 Pre-Made Modules
+
+### 🖥️ M-ATX Board
+
+### 💾 Disk Bays
+
+#### 2,5" Disk Bays
+#### 3,5" Disk Bays
+
+### ⚡M-ATX Power Supply
+
+### 🛜 Wifi Rele 
+
+
+
+## 🛠️ Assembly
+
+---
+
 ## 📁 Files
 
-I've added direct links to the model files in the repository so you (and others) can download them easily:
 
 - Fusion 360 (F3D): [3D-Models/Parametric/Open-Rack.f3d](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.f3d)
 - STEP: [3D-Models/Parametric/Open-Rack.step](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.step)
@@ -118,6 +119,4 @@ I've added direct links to the model files in the repository so you (and others)
   - Full-Unit STLs: [3D-Models/STLs/Full-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Full-Unit)
   - Half-Unit STLs: [3D-Models/STLs/Half-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Half-Unit)
   - Pre-made modules: [3D-Models/STLs/Pre-Made Modules](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Pre-Made%20Modules)
-
-If you'd like, I can also add direct download buttons, list every STL file individually, or link to specific BOM files — tell me how detailed you want the file links to be.
 
