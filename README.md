@@ -9,13 +9,15 @@ It is designed to use **M4 screws only**, allowing hardware to be mounted withou
 
 ## 📦 System Overview
 
+![Full Unit](images/full-unit.png)
+
 The system is made out of **two different units**:
 
 ---
 
 ### 🔲 Full Unit (300mm wide)
 
-![Full Unit](images/full-unit.png)
+![300 Unit](images/300-unit.png)
 
 **Measurements**  
 *(Add diagram here)*
