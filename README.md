@@ -115,8 +115,5 @@ This unit is designed to house:
 - Fusion 360 (F3D): [3D-Models/Parametric/Open-Rack.f3d](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.f3d)
 - STEP: [3D-Models/Parametric/Open-Rack.step](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.step)
 - Main STL files folder: [3D-Models/STLs](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs)
-  - Joint STL: [3D-Models/STLs/Joint.stl](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/STLs/Joint.stl)
-  - Full-Unit STLs: [3D-Models/STLs/Full-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Full-Unit)
-  - Half-Unit STLs: [3D-Models/STLs/Half-Unit](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Half-Unit)
-  - Pre-made modules: [3D-Models/STLs/Pre-Made Modules](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs/Pre-Made%20Modules)
+
 
