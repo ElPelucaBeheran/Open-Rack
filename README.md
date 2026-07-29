@@ -93,16 +93,17 @@ This unit is designed to house:
 ## 🔗 Pre-Made Modules
 
 ### 🖥️ M-ATX Board
-
+![matx board](images/M-ATX-Board.png)
 ### 💾 Disk Bays
 
 #### 2,5" Disk Bays
+![2,5"bay](images/2,5-Disk-Bays.png)
 #### 3,5" Disk Bays
-
+![3,5"bay](images/3,5-Disk-Bays.png)
 ### ⚡M-ATX Power Supply
-
+![matx power supply](images/M-ATX-Power-Supply.png)
 ### 🛜 Wifi Rele 
-
+![wifi rele](images/Wifi-Rele.png)
 
 
 ## 🛠️ Assembly
