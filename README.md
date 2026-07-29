@@ -55,6 +55,9 @@ This unit is designed to house:
 ---
 
 ## 🛠️ Assembly
+
+[![Ver demo](https://img.youtube.com/vi/qaGLMwjam0k/maxresdefault.jpg)](https://youtu.be/qaGLMwjam0k)
+
 ---
 
 ### 🔲 Full Unit
