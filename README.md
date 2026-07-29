@@ -44,7 +44,8 @@ This unit is designed to house:
 
 ---
 
-
+## 🛠️ Assembly
+---
 
 ### 🔲 Full Unit
 
@@ -107,7 +108,7 @@ This unit is designed to house:
 ![wifi rele](images/Wifi-Rele.png)
 
 
-## 🛠️ Assembly
+
 
 ---
 
