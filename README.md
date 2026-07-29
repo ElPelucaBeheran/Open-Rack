@@ -21,11 +21,11 @@ The system is made out of **two different units**:
 
 **Measurements**  
 - **RACK**
-![Full Unit RACK Diagram](images/300-u-diagram.png)
+-- ![Full Unit RACK Diagram](images/300-u-diagram.png)
   
   
 - **UNIT**
-![Full Unit Diagram](images/full-u-diagram.png)
+-- ![Full Unit Diagram](images/full-u-diagram.png)
 This unit allows you to:
 - Fit **M-ATX motherboards**
 - Mount up to **2 × 3.5"/2,5" SATA hard drives by bay**
@@ -38,9 +38,9 @@ This unit allows you to:
 
 **Measurements**  
 - **RACK**
-![Half Unit](images/half-udiagram.png)
+-- ![Half Unit](images/half-udiagram.png)
 - **UNIT**
-![Half Full Unit Diagram](images/half-u-diagram.png)
+-- ![Half Full Unit Diagram](images/half-u-diagram.png)
 This unit is designed to house:
 - **Single-board computers** (e.g. Raspberry Pi)
 - Smaller components such as:
