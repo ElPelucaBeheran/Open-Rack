@@ -20,11 +20,11 @@ The system is made out of **two different units**:
 ![300 Unit](images/300-unit.png)
 
 **Measurements**  
-*(Add diagram here)*
+![Full Unit](images/300-u-diagram.png)
 
 This unit allows you to:
 - Fit **M-ATX motherboards**
-- Mount up to **2 × 3.5" SATA hard drives by bay**
+- Mount up to **2 × 3.5"/2,5" SATA hard drives by bay**
 
 ---
 
@@ -33,7 +33,7 @@ This unit allows you to:
 ![Half Unit](images/half-unit.png)
 
 **Measurements**  
-*(Add diagram here)*
+![Half Unit](images/half-udiagram.png)
 
 This unit is designed to house:
 - **Single-board computers** (e.g. Raspberry Pi)
