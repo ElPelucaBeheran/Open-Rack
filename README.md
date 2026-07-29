@@ -94,6 +94,7 @@ This unit is designed to house:
 
 ### 🖥️ M-ATX Board
 ![matx board](images/M-ATX-Board.png)
+**Needs Bronze Standoffs**
 ### 💾 Disk Bays
 
 #### 2,5" Disk Bays
