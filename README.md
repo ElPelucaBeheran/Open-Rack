@@ -22,8 +22,8 @@ The system is made out of **two different units**:
 **Measurements**  
 - **RACK**
 ![Full Unit RACK Diagram](images/300-u-diagram.png)
-
-
+  
+  
 - **UNIT**
 ![Full Unit Diagram](images/full-u-diagram.png)
 This unit allows you to:
