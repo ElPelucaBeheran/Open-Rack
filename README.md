@@ -39,8 +39,12 @@ This unit allows you to:
 **Measurements**  
 - **RACK**
 -- ![Half Unit](images/half-udiagram.png)
+
+
 - **UNIT**
 -- ![Half Full Unit Diagram](images/half-u-diagram.png)
+
+
 This unit is designed to house:
 - **Single-board computers** (e.g. Raspberry Pi)
 - Smaller components such as:
