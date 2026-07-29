@@ -20,9 +20,9 @@ The system is made out of **two different units**:
 ![300 Unit RACK](images/300-unit.png)
 
 **Measurements**  
---**RACK**
+-- **RACK**
 ![Full Unit RACK Diagram](images/300-u-diagram.png)
---**UNIT**
+-- **UNIT**
 ![Full Unit Diagram](images/full-u-diagram.png)
 This unit allows you to:
 - Fit **M-ATX motherboards**
@@ -35,9 +35,9 @@ This unit allows you to:
 ![Half Unit](images/half-unit.png)
 
 **Measurements**  
---**RACK**
+-- **RACK**
 ![Half Unit](images/half-udiagram.png)
---**UNIT**
+-- **UNIT**
 ![Half Full Unit Diagram](images/half-u-diagram.png)
 This unit is designed to house:
 - **Single-board computers** (e.g. Raspberry Pi)
