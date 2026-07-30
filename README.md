@@ -130,6 +130,6 @@ This unit is designed to house:
 
 - Fusion 360 (F3D): [3D-Models/Parametric/Open-Rack.f3d](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.f3d)
 - STEP: [3D-Models/Parametric/Open-Rack.step](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.step)
-- Main STL files folder (Ready to Print) : [3D-Models/STLs](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs)
+- Main STL files folder (Ready to Print): [3D-Models/STLs](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs)
 
 
