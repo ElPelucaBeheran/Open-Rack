@@ -54,7 +54,7 @@ This unit is designed to house:
 
 ## 🛠️ Assembly
 
-[![Assembly Video](images/assembly-thumbnail.png)](images/Assembly-Video.mp4)
+[](images/Assembly-Video.gif)
 
 ---
 
