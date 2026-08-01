@@ -55,6 +55,7 @@ This unit is designed to house:
 ## 🛠️ Assembly
 
 How to Join the Full-U & Half-U into one
+[▶️](https://www.youtube.com/watch?v=qaGLMwjam0k)
 
 ![Assembly-Video](images/Assembly-Video.gif)
 
