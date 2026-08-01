@@ -109,18 +109,24 @@ This unit is designed to house:
 ### 🖥️ M-ATX Board
 ![matx board](images/M-ATX-Board.png)
 **Needs Bronze Standoffs**
+
+This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
+
 ### 💾 Disk Bays
 
 #### 2,5" Disk Bays
 ![2,5"bay](images/2,5-Disk-Bays.png)
+
 #### 3,5" Disk Bays
 ![3,5"bay](images/3,5-Disk-Bays.png)
-### ⚡M-ATX Power Supply
+### ⚡M-ATX Power Supply Plate
 ![matx power supply](images/M-ATX-Power-Supply.png)
+
+This Plate can hold a full ATX power supply
 ### 🛜 Wifi Rele 
 ![wifi rele](images/Wifi-Rele.png)
 
-
+This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteligente-Interruptor-Temporizador-Aplicación/dp/B0CPLNMXBJ?th=1) and an [Interlock Connector](https://www.mercadolibre.com.ar/ficha-conector-computadora-pc-3-patas-chasis-macho-interlock/up/MLAU3919788192) for easy remote power ON/OFF of equipment
 
 
 ---
