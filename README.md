@@ -10,7 +10,8 @@ It is designed to use **M4 screws only**, allowing hardware to be mounted withou
 ## 📦 System Overview
 
 ![Full Unit](images/full-unit.png)
-![Full Unit IRL](images/total-assembly.png)
+
+![Full Unit IRL](images/IRL/total-assembly.png)
 
 The system is made out of **two different units**:
 
