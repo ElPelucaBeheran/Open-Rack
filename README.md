@@ -1,7 +1,6 @@
 # Open-Rack
 
 ![Open Rack Preview](images/preview.png)
-![Open Rack IRL](images/IRL/example-overview.png)
 
 Open Rack is a custom **300mm rack system** that uses simple, easy-to-remember measurements.  
 It is designed to use **M4 screws only**, allowing hardware to be mounted without the need for nuts.
