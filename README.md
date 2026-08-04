@@ -1,7 +1,7 @@
 # Open-Rack
 
 ![Open Rack Preview](images/preview.png)
-![Open Rack IRL](images/IRL/example-overview.jpeg)
+![Open Rack IRL](images/IRL/example-overview.png)
 
 Open Rack is a custom **300mm rack system** that uses simple, easy-to-remember measurements.  
 It is designed to use **M4 screws only**, allowing hardware to be mounted without the need for nuts.
@@ -11,7 +11,7 @@ It is designed to use **M4 screws only**, allowing hardware to be mounted withou
 ## 📦 System Overview
 
 ![Full Unit](images/full-unit.png)
-![Full Unit IRL](images/IRL/example-overview.jpeg)
+![Full Unit IRL](images/IRL/example-overview.png)
 
 The system is made out of **two different units**:
 
@@ -20,7 +20,7 @@ The system is made out of **two different units**:
 ### 🔲 Full Unit (300mm wide)
 
 ![300 Unit RACK](images/300-unit.png)
-![300 Unit RACK IRL](images/IRL/MATX-Backhold.jpeg)
+![300 Unit RACK IRL](images/IRL/MATX-Backhold.png)
 
 **Measurements**  
 - **RACK**
@@ -38,7 +38,7 @@ This unit allows you to:
 ### 🔳 Half Unit (150mm wide)
 
 ![Half Unit](images/half-unit.png)
-![Half Unit IRL](images/IRL/matxfrontview.jpeg)
+![Half Unit IRL](images/IRL/matxfrontview.png)
 
 **Measurements**  
 - **RACK**
@@ -112,7 +112,7 @@ How to Join the Full-U & Half-U into one
 
 ### 🖥️ M-ATX Board
 ![matx board](images/M-ATX-Board.png)
-![matx board IRL](images/IRL/matxfrontview.jpeg)
+![matx board IRL](images/IRL/matxfrontview.png)
 
 **Needs Bronze Standoffs**
 
@@ -122,21 +122,21 @@ This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
 
 #### 2,5" Disk Bays
 ![2,5"bay](images/2,5-Disk-Bays.png)
-![2,5"bay IRL](images/IRL/2.5-3.5-bays.jpeg)
+![2,5"bay IRL](images/IRL/2.5-3.5-bays.png)
 
 #### 3,5" Disk Bays
 ![3,5"bay](images/3,5-Disk-Bays.png)
-![3,5"bay IRL](images/IRL/2.5-3.5-bays.jpeg)
+![3,5"bay IRL](images/IRL/2.5-3.5-bays.png)
 
 ### ⚡M-ATX Power Supply Plate
 ![matx power supply](images/M-ATX-Power-Supply.png)
-![matx power supply IRL](images/IRL/atx-powersupply-front.jpeg)
+![matx power supply IRL](images/IRL/atx-powersupply-front.png)
 
 This Plate can hold a full ATX power supply
 
 ### 🛜 Wifi Rele 
 ![wifi rele](images/Wifi-Rele.png)
-![wifi rele IRL](images/IRL/wifi-rele.jpeg)
+![wifi rele IRL](images/IRL/wifi-rele.png)
 
 This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteligente-Interruptor-Temporizador-Aplicación/dp/B0CPLNMXBJ?th=1) and an [Interlock Connector](https://www.mercadolibre.com)
 
@@ -145,7 +145,7 @@ This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteli
 ## 🏗️ Build Examples
 
 ### Example Build - Server Rack
-![Build Example 1](images/IRL/example-overview.jpeg)
+![Build Example 1](images/IRL/example-overview.png)
 
 This build demonstrates a complete server configuration featuring:
 - **Full Unit** with M-ATX motherboard (bottom)
@@ -154,7 +154,7 @@ This build demonstrates a complete server configuration featuring:
 - **Half Unit** on top with networking equipment
 
 ### Example Build - Home Lab
-![Build Example 2](images/IRL/example-back-overview.jpeg)
+![Build Example 2](images/IRL/example-back-overview.png)
 
 A compact home lab setup featuring:
 - **Full Unit** with computing components
@@ -163,7 +163,7 @@ A compact home lab setup featuring:
 - **2.5" Disk Bays** for fast storage
 
 ### Example Build - Complete Assembly
-![Build Example 3](images/IRL/example-overview.jpeg)
+![Build Example 3](images/IRL/example-overview.png)
 
 Full stacked configuration showing how multiple Full and Half Units can be combined for maximum functionality and scalability.
 
