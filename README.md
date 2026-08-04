@@ -112,21 +112,21 @@ How to Join the Full-U & Half-U into one
 
 ### 🖥️ M-ATX Board
 ![matx board](images/M-ATX-Board.png)
-![matx board IRL](images/IRL/matxfrontview.png)
+![matx board IRL](images/IRL/matx-frontview.png)
 
 **Needs Bronze Standoffs**
 
 This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
 
 ### 💾 Disk Bays
-
+![2,5"bay IRL](images/IRL/2,5-3,5-bays.png)
 #### 2,5" Disk Bays
 ![2,5"bay](images/2,5-Disk-Bays.png)
-![2,5"bay IRL](images/IRL/2.5-3.5-bays.png)
+
 
 #### 3,5" Disk Bays
 ![3,5"bay](images/3,5-Disk-Bays.png)
-![3,5"bay IRL](images/IRL/2.5-3.5-bays.png)
+
 
 ### ⚡M-ATX Power Supply Plate
 ![matx power supply](images/M-ATX-Power-Supply.png)
@@ -144,28 +144,15 @@ This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteli
 
 ## 🏗️ Build Examples
 
-### Example Build - Server Rack
-![Build Example 1](images/IRL/example-overview.png)
+### Example Build - Server Rack / Home Lab
+![Build Example 1.1](images/IRL/example-overview.png)
+![Build Example 1.2](images/IRL/example-back-overview.png)
 
 This build demonstrates a complete server configuration featuring:
 - **Full Unit** with M-ATX motherboard (bottom)
-- **Disk Bays** with 3.5" SATA drives for storage
-- **Power Supply Plate** for the M-ATX PSU
-- **Half Unit** on top with networking equipment
+- **Disk Bays** with 2,5 & 3.5" SATA drives for storage
+- **Half Unit** for power management
 
-### Example Build - Home Lab
-![Build Example 2](images/IRL/example-back-overview.png)
-
-A compact home lab setup featuring:
-- **Full Unit** with computing components
-- **Half Unit** with Raspberry Pi single-board computer
-- **Wifi Relay Module** for smart home integration
-- **2.5" Disk Bays** for fast storage
-
-### Example Build - Complete Assembly
-![Build Example 3](images/IRL/example-overview.png)
-
-Full stacked configuration showing how multiple Full and Half Units can be combined for maximum functionality and scalability.
 
 ---
 
