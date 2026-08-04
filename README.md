@@ -1,6 +1,7 @@
 # Open-Rack
 
 ![Open Rack Preview](images/preview.png)
+![Open Rack IRL](images/IRL/preview.jpg)
 
 Open Rack is a custom **300mm rack system** that uses simple, easy-to-remember measurements.  
 It is designed to use **M4 screws only**, allowing hardware to be mounted without the need for nuts.
@@ -10,6 +11,7 @@ It is designed to use **M4 screws only**, allowing hardware to be mounted withou
 ## 📦 System Overview
 
 ![Full Unit](images/full-unit.png)
+![Full Unit IRL](images/IRL/full-unit.jpg)
 
 The system is made out of **two different units**:
 
@@ -18,6 +20,7 @@ The system is made out of **two different units**:
 ### 🔲 Full Unit (300mm wide)
 
 ![300 Unit RACK](images/300-unit.png)
+![300 Unit RACK IRL](images/IRL/300-unit.jpg)
 
 **Measurements**  
 - **RACK**
@@ -35,6 +38,7 @@ This unit allows you to:
 ### 🔳 Half Unit (150mm wide)
 
 ![Half Unit](images/half-unit.png)
+![Half Unit IRL](images/IRL/half-unit.jpg)
 
 **Measurements**  
 - **RACK**
@@ -108,6 +112,8 @@ How to Join the Full-U & Half-U into one
 
 ### 🖥️ M-ATX Board
 ![matx board](images/M-ATX-Board.png)
+![matx board IRL](images/IRL/M-ATX-Board.jpg)
+
 **Needs Bronze Standoffs**
 
 This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
@@ -116,18 +122,50 @@ This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
 
 #### 2,5" Disk Bays
 ![2,5"bay](images/2,5-Disk-Bays.png)
+![2,5"bay IRL](images/IRL/2,5-Disk-Bays.jpg)
 
 #### 3,5" Disk Bays
 ![3,5"bay](images/3,5-Disk-Bays.png)
+![3,5"bay IRL](images/IRL/3,5-Disk-Bays.jpg)
+
 ### ⚡M-ATX Power Supply Plate
 ![matx power supply](images/M-ATX-Power-Supply.png)
+![matx power supply IRL](images/IRL/M-ATX-Power-Supply.jpg)
 
 This Plate can hold a full ATX power supply
+
 ### 🛜 Wifi Rele 
 ![wifi rele](images/Wifi-Rele.png)
+![wifi rele IRL](images/IRL/Wifi-Rele.jpg)
 
-This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteligente-Interruptor-Temporizador-Aplicación/dp/B0CPLNMXBJ?th=1) and an [Interlock Connector](https://www.mercadolibre.com.ar/ficha-conector-computadora-pc-3-patas-chasis-macho-interlock/up/MLAU3919788192) for easy remote power ON/OFF of equipment
+This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteligente-Interruptor-Temporizador-Aplicación/dp/B0CPLNMXBJ?th=1) and an [Interlock Connector](https://www.mercadolibre.com)
 
+---
+
+## 🏗️ Build Examples
+
+### Example Build - Server Rack
+![Build Example 1](images/IRL/build-example-1.jpg)
+
+This build demonstrates a complete server configuration featuring:
+- **Full Unit** with M-ATX motherboard (bottom)
+- **Disk Bays** with 3.5" SATA drives for storage
+- **Power Supply Plate** for the M-ATX PSU
+- **Half Unit** on top with networking equipment
+
+### Example Build - Home Lab
+![Build Example 2](images/IRL/build-example-2.jpg)
+
+A compact home lab setup featuring:
+- **Full Unit** with computing components
+- **Half Unit** with Raspberry Pi single-board computer
+- **Wifi Relay Module** for smart home integration
+- **2.5" Disk Bays** for fast storage
+
+### Example Build - Complete Assembly
+![Build Example 3](images/IRL/build-example-3.jpg)
+
+Full stacked configuration showing how multiple Full and Half Units can be combined for maximum functionality and scalability.
 
 ---
 
@@ -138,4 +176,14 @@ This Module can hold a cheap [WIFI rele](https://www.amazon.com/-/es/MOES-Inteli
 - STEP: [3D-Models/Parametric/Open-Rack.step](https://github.com/ElPelucaBeheran/Open-Rack/blob/main/3D-Models/Parametric/Open-Rack.step)
 - Main STL files folder (Ready to Print): [3D-Models/STLs](https://github.com/ElPelucaBeheran/Open-Rack/tree/main/3D-Models/STLs)
 
+---
 
+## 👥 Credits
+
+This project was made possible thanks to the contributions of:
+
+- [**Tomás López Tur**](https://github.com/TomasLopezTur)
+- [**FabLab VLA**](https://github.com/FabLabVLA)
+- [**sincodda**](https://github.com/sincodda)
+
+Special thanks to all contributors who have helped shape and improve the Open-Rack system!
