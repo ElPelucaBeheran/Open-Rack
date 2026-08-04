@@ -182,8 +182,9 @@ Full stacked configuration showing how multiple Full and Half Units can be combi
 
 This project was made possible thanks to the contributions of:
 
+- [**sincodda**](https://github.com/sincodda)
 - [**Tomás López Tur**](https://github.com/TomasLopezTur)
 - [**FabLab VLA**](https://github.com/FabLabVLA)
-- [**sincodda**](https://github.com/sincodda)
+
 
 Special thanks to all contributors who have helped shape and improve the Open-Rack system!
