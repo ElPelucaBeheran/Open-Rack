@@ -116,16 +116,27 @@ How to Join the Full-U & Half-U into one
 
 **Needs Bronze Standoffs**
 
+#### Hardware
+
+- M4 Nut ×3  
+- M4 × 20 mm Screw ×3  
+- M4 × 10 mm Screw ×4
+- Bronze Standoff x6
+
 This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
 
 ### 💾 Disk Bays
 ![2,5"bay IRL](images/IRL/2,5-3,5-bays.png)
 #### 2,5" Disk Bays
 ![2,5"bay](images/2,5-Disk-Bays.png)
-
+#### Hardware  
+- M4 × 10 mm Screw ×4
 
 #### 3,5" Disk Bays
 ![3,5"bay](images/3,5-Disk-Bays.png)
+
+#### Hardware
+- M4 × 10 mm Screw ×4
 
 
 ### ⚡M-ATX Power Supply Plate
@@ -133,6 +144,10 @@ This Module is 5U tall (75mm tall) and supports motherboards up to 55mm tall
 ![matx power supply IRL](images/IRL/atx-powersupply-front.png)
 
 This Plate can hold a full ATX power supply
+
+#### Hardware
+
+- 6-32 ATX power supply screw x4
 
 ### 🛜 Wifi Rele 
 ![wifi rele](images/Wifi-Rele.png)
